@@ -1,5 +1,4 @@
-var elem = document.getElementById("fullscreen");
-function openFullscreen() {
+function openFullscreen(elem) {
   if (elem.requestFullscreen) {
     elem.requestFullscreen();
   } else if (elem.mozRequestFullScreen) { /* Firefox */
