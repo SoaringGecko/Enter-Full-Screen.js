@@ -12,4 +12,4 @@ You could use ``ondblclick="openFullscreen(this)"`` to enter fullscreen on doubl
 
 ### Enter Fullscreen On Right-Click
 You could use ``oncontextmenu="openFullscreen(this)"`` to enter fullscreen on right-click.<br>
-[Here is an example of this in use.](https://www.w3schools.com/code/tryit.asp?filename=GJCH1QXGJKNQ)
+[Here is an example of this in use.](https://www.w3schools.com/code/tryit.asp?filename=GJW77406M3K7)
