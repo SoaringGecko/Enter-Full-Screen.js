@@ -15,11 +15,13 @@ Then run this function to enter fullscreen on the element of your choosing
 ### Enter Fullscreen On Double-Click
 You could enter fullscreen on double-click.
 
-``ondblclick="openFullscreen(this)"`` 
+``ondblclick="openFullscreen(this)"``
+
 [Here is an example of this in use.](https://www.w3schools.com/code/tryit.asp?filename=GJBALY213C9T)
 
 ### Enter Fullscreen On Right-Click
 You could also enter fullscreen on right-click.
 
-``oncontextmenu="openFullscreen(this)"`` 
+``oncontextmenu="openFullscreen(this)"``
+
 [Here is an example of this in use.](https://www.w3schools.com/code/tryit.asp?filename=GJW77406M3K7)
